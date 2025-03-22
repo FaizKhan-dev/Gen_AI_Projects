@@ -42,9 +42,6 @@ streamlit run app.py
 4. **Select a Job** – Click "Generate Email" to create a cold email for that job.
 5. **Copy & Send Email** – Use the AI-generated email to reach out professionally.
 
-## 📸 Screenshots
-🔜 *[Add screenshots of your UI here]*
-
 ## 📌 Future Enhancements
 - ✅ Support for multiple job boards
 - ✅ Customizable email templates
